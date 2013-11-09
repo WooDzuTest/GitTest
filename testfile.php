@@ -7,6 +7,4 @@ asdasdasd
 
 tutaj cos bedzie
 
-DODANE Z TESTOWEGO
-
-Dodane
+// oops
